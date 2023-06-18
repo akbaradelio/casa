@@ -27,33 +27,33 @@ Jika Anda menggunakan XAMPP, untuk PHP dan MySQL sudah menjadi 1 (bundle) di dal
 ### Preview Gambar
 
 _Login_
-![Login](https://i.ibb.co/Ws6H4Kr/login.png)
+![Login](https://ibb.co/s51h5Jj)
 
 _Dashboard_
-![Dashboard](https://i.ibb.co/k3dCNyZ/dashboard.png)
+![Dashboard](https://ibb.co/LzXFFDm)
 
 _Daftar Pelajar_
-![Daftar Pelajar](https://i.ibb.co/TPdYWxh/pelajar.png)
+![Daftar Pelajar](https://ibb.co/2STcH2f)
 
 _Daftar Kelas_
-![Daftar Kelas](https://i.ibb.co/9ZD9Nm4/kelas.png)
+![Daftar Kelas](https://ibb.co/Yj4bDZd)
 
 _Daftar Jurusan_
-![Daftar Jurusan](https://i.ibb.co/LkFzhsS/jurusan.png)
+![Daftar Jurusan](https://ibb.co/QXG1pVT)
 
 _Daftar Kas_
-![Daftar Kas](https://i.ibb.co/kBJwv30/kas-minggu-ini.png)
+![Daftar Kas](https://ibb.co/HLyKdrY)
 
-![Filter Kas](https://i.ibb.co/F88Gkyx/filter-kas.png)
+![Filter Kas](https://ibb.co/PMCdvcn)
 
 _Laporan_
-![Laporan](https://i.ibb.co/FmdXMBC/laporan.png)
+![Laporan](https://ibb.co/WcTf7s0)
 
 _Daftar Administrator_
-![Daftar Administrator](https://i.ibb.co/pyk0dSk/administrator.png)
+![Daftar Administrator](https://ibb.co/gmLtNCD)
 
 _Logout_
-![Logout](https://i.ibb.co/0Jd6GDM/logout.png)
+![Logout](hhttps://ibb.co/7QWNHp9)
 
 ### Langkah-langkah instalasi
 
