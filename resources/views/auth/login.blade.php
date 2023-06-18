@@ -4,7 +4,7 @@
 <div class="row h-100">
 	<div class="col-lg-5 col-12">
 		<div id="auth-left">
-			<h1 class="auth-title">Login.</h1>
+			<h1 class="auth-title", style="text-align:center; color:#6f47f0; font-family:montserrat;">CASA</h1>
 			<p class="auth-subtitle mb-5">Masuk untuk melanjutkan.</p>
 
 			<form action="{{ route('login') }}" method="POST">
